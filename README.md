@@ -1,2 +1,2 @@
 # forum
-A discussion forum for Astropolis
+This repository maintains settings for our GitHub Discussions.
